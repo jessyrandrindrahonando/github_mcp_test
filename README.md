@@ -15,4 +15,4 @@ Ce repository sert à tester l'intégration GitHub MCP.
 - Ce fichier README
 - Un fichier de configuration
 - Un fichier de code exemple
-# Feature Branch
+- Test readme
